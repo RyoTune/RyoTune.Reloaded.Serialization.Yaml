@@ -1,9 +1,9 @@
 {
   "ModId": "RyoTune.Reloaded.Serialization.Yaml",
-  "ModName": "YAML Serialzation",
+  "ModName": "YAML Serialization",
   "ModAuthor": "RyoTune",
   "ModVersion": "1.0.0",
-  "ModDescription": "YAML serialzation with YamlDotNet as a shared library.",
+  "ModDescription": "YAML serialization with YamlDotNet as a shared library.",
   "ModDll": "RyoTune.Reloaded.Serialization.Yaml.dll",
   "ModIcon": "Preview.png",
   "ModR2RManagedDll32": "x86/RyoTune.Reloaded.Serialization.Yaml.dll",
@@ -14,7 +14,7 @@
   "ReleaseMetadataFileName": "RyoTune.Reloaded.Serialization.Yaml.ReleaseMetadata.json",
   "PluginData": {},
   "IsUniversalMod": false,
-  "ModDependencies": [ "reloaded.sharedlib.hooks", "Reloaded.Memory.SigScan.ReloadedII" ],
+  "ModDependencies": [],
   "OptionalDependencies": [],
   "SupportedAppId": [],
   "ProjectUrl": ""

@@ -1,6 +1,4 @@
-﻿using RyoTune.Reloaded.Serialization.Yaml.Configuration;
-
-namespace RyoTune.Reloaded.Serialization.Yaml.Template;
+﻿namespace RyoTune.Reloaded.Serialization.Yaml.Template;
 
 /// <summary>
 /// Base class for implementing mod functionality.
@@ -59,11 +57,5 @@ public class ModBase
             A. Redo memory modifications.
             B. Re-activate hooks. (Reloaded.Hooks Supports This!)
         */
-    }
-
-    public virtual void ConfigurationUpdated(Config configuration)
-    {
-        // Apply settings from configuration.
-        // ... your code here.
     }
 }
