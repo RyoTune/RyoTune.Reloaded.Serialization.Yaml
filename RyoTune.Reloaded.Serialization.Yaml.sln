@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyoTune.Reloaded.Serialization.Yaml", "RyoTune.Reloaded.Serialization.Yaml\RyoTune.Reloaded.Serialization.Yaml.csproj", "{8173EE3C-AE3E-47AC-BEBC-FF132BDEEB8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyoTune.Reloaded.Serialization.Yaml.Interfaces", "RyoTune.Reloaded.Serialization.Yaml.Interfaces\RyoTune.Reloaded.Serialization.Yaml.Interfaces.csproj", "{0423FD44-6E74-4C08-8401-BC7D66CFD9B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8173EE3C-AE3E-47AC-BEBC-FF132BDEEB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8173EE3C-AE3E-47AC-BEBC-FF132BDEEB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8173EE3C-AE3E-47AC-BEBC-FF132BDEEB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0423FD44-6E74-4C08-8401-BC7D66CFD9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0423FD44-6E74-4C08-8401-BC7D66CFD9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0423FD44-6E74-4C08-8401-BC7D66CFD9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0423FD44-6E74-4C08-8401-BC7D66CFD9B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
